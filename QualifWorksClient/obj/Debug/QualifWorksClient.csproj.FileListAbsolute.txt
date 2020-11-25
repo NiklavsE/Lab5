@@ -1,0 +1,14 @@
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\QualifWorksClient.exe.config
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\QualifWorksClient.exe
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\QualifWorksClient.pdb
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.Properties.Resources.resources
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.GenerateResource.cache
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CoreCompileInputs.cache
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.exe
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.pdb
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\DataModel.dll
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\DataModel.pdb
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\bin\Debug\DataModel.dll.config
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.csprojAssemblyReference.cache
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.csproj.CopyComplete
+C:\Users\nikla\source\repos\Lab4\QualifWorksClient\obj\Debug\QualifWorksClient.frmQualifWorks.resources
